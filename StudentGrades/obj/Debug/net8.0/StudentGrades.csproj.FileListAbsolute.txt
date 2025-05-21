@@ -1,0 +1,14 @@
+D:\DEV_TEST\StudentGrades\bin\Debug\net8.0\StudentGrades.exe
+D:\DEV_TEST\StudentGrades\bin\Debug\net8.0\StudentGrades.deps.json
+D:\DEV_TEST\StudentGrades\bin\Debug\net8.0\StudentGrades.runtimeconfig.json
+D:\DEV_TEST\StudentGrades\bin\Debug\net8.0\StudentGrades.dll
+D:\DEV_TEST\StudentGrades\bin\Debug\net8.0\StudentGrades.pdb
+D:\DEV_TEST\StudentGrades\obj\Debug\net8.0\StudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV_TEST\StudentGrades\obj\Debug\net8.0\StudentGrades.AssemblyInfoInputs.cache
+D:\DEV_TEST\StudentGrades\obj\Debug\net8.0\StudentGrades.AssemblyInfo.cs
+D:\DEV_TEST\StudentGrades\obj\Debug\net8.0\StudentGrades.csproj.CoreCompileInputs.cache
+D:\DEV_TEST\StudentGrades\obj\Debug\net8.0\StudentGrades.dll
+D:\DEV_TEST\StudentGrades\obj\Debug\net8.0\refint\StudentGrades.dll
+D:\DEV_TEST\StudentGrades\obj\Debug\net8.0\StudentGrades.pdb
+D:\DEV_TEST\StudentGrades\obj\Debug\net8.0\StudentGrades.genruntimeconfig.cache
+D:\DEV_TEST\StudentGrades\obj\Debug\net8.0\ref\StudentGrades.dll

@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","157","Delete existing label by authorized user","","Mon Sep 09 17:18:59 SGT 2024","failed","Mon Sep 09 17:18:59 SGT 2024","","","LabelTests","DeleteExistingLabelByAuthorizedUser"
+"","78","Delete label via API","","Mon Sep 09 17:18:58 SGT 2024","passed","Mon Sep 09 17:18:58 SGT 2024","","","LabelTests","DeleteLabelTest"
+"","54","Add label to existing issue by authorized user","","Mon Sep 09 17:18:59 SGT 2024","passed","Mon Sep 09 17:18:59 SGT 2024","","","LabelTests","AddLabelToExistingIssueByAuthorizedUser"
+"","6","Create new milestone by authorized user","","Mon Sep 09 17:18:59 SGT 2024","passed","Mon Sep 09 17:18:59 SGT 2024","","","MilestoneTests","CreateNewMilestoneByAuthorizedUser"
+"","15","Close existing milestone by authorized user","","Mon Sep 09 17:18:59 SGT 2024","passed","Mon Sep 09 17:18:59 SGT 2024","","","MilestoneTests","CloseMilestoneByAuthorizedUser"
+"","7","Create new label via API","","Mon Sep 09 17:18:59 SGT 2024","passed","Mon Sep 09 17:18:59 SGT 2024","","","LabelTests","NewLabelTest"
+"","7","Create new label by authorized user","","Mon Sep 09 17:18:59 SGT 2024","passed","Mon Sep 09 17:18:59 SGT 2024","","","LabelTests","CreateNewLabelByAuthorizedUser"
